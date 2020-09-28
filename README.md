@@ -14,6 +14,6 @@ Some platforms will be:
 
   - Hack The Box
   - TryHackMe
-  - ApseBOS CTF
+  - BsideBOS CTF
 
 Among others, they will only be pages which I have been solving challenges, not just any random.
