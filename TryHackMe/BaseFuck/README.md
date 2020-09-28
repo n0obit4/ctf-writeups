@@ -40,7 +40,7 @@ We create a script and there automatized it.
 
 The script is [here](https://github.com/n0obit4/CTF/blob/master/TryHackMe/BaseFuck/Base_Fuck_Solver.py) in the repository.
 
-We Execute the script and obtain result in a basefuck code.
+We Execute the script and obtain result in a **Brain Fuck** code.
 
 ```
 ++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>>++++++++++++++++.------------.+++++.++++++++++++++.<+++++++++++++++.>---------.<+++++++++++++.-.>----.<--.------------------.>+++++++.---------..-------.+++++++++++++.<++++++++++++++++++.<+++++++++++++++++++.++++++++..------.>>+++++++++++.
