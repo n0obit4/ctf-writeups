@@ -2,7 +2,7 @@
 
 This is a challenge that consist in a extract the flag from the contenof the file.
 
-TryHackMe challenge [Here](tryhackme.com/jr/basefuck)
+BaseFuck challenge [Here](tryhackme.com/jr/basefuck)
 
 ## Step 1
 
