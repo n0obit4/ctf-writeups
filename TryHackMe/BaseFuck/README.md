@@ -4,14 +4,14 @@ This is a challenge that consist in a extract the flag from the contenof the fil
 
 ## Step 1
 
-[![Base64](https://raw.githubusercontent.com/n0obit4/CTF/master/TryHackMe/BaseFuck/Pictures/Base64.png?token=AJY45ARGD7YC3NXDMROMIZ27OFKNE)
+![Base64](https://raw.githubusercontent.com/n0obit4/CTF/master/TryHackMe/BaseFuck/Pictures/Base64.png)
 
 If we look the text it can be appreciated a text similar to Base64 cipher.
 
 
 ## Step 2
 
-[foto]
+![Brain Fuck](https://raw.githubusercontent.com/n0obit4/CTF/master/TryHackMe/BaseFuck/Pictures/Chars.jpg)
 
 But if we look at the text and do a deep analysis we can visualize characters that do not belong to base64 characters.
 
