@@ -38,3 +38,14 @@ We create a script and there automatized it.
 
 The script is [here](https://github.com/n0obit4/CTF/blob/master/TryHackMe/BaseFuck/Base_Fuck_Solver.py) in the repository.
 
+We Execute the script and obtain a basefuck result
+
+```
+++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>>++++++++++++++++.------------.+++++.++++++++++++++.<+++++++++++++++.>---------.<+++++++++++++.-.>----.<--.------------------.>+++++++.---------..-------.+++++++++++++.<++++++++++++++++++.<+++++++++++++++++++.++++++++..------.>>+++++++++++.
+```
+
+later we decode it and obtain the flag
+
+```
+thm{U****************}
+```
