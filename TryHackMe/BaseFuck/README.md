@@ -4,7 +4,7 @@ This is a challenge that consist in a extract the flag from the contenof the fil
 
 ## Step 1
 
-![Base64]("https://raw.githubusercontent.com/n0obit4/CTF/master/TryHackMe/BaseFuck/Pictures/Base64.png?token=AJY45ARGD7YC3NXDMROMIZ27OFKNE")
+[![Base64]]("https://raw.githubusercontent.com/n0obit4/CTF/master/TryHackMe/BaseFuck/Pictures/Base64.png?token=AJY45ARGD7YC3NXDMROMIZ27OFKNE")
 
 If we look the text it can be appreciated a text similar to Base64 cipher.
 
@@ -36,5 +36,5 @@ OK!, Already known this it is necessary to extract the characters from the text.
 
 We create a script and there automatized it.
 
-("https://github.com/n0obit4/CTF/TryHackMe/BaseFuck/")The script is here in the repository
+The script is [here]("https://github.com/n0obit4/CTF/TryHackMe/BaseFuck/") in the repository.
 
