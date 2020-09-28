@@ -5,3 +5,15 @@
   CTF Area
   <br>
 </h1>
+
+## CTF
+
+In this area I will upload material related to CTF, be it writeup, own challenges, scripts, etc ...
+
+Some platforms will be:
+
+  - Hack The Box
+  - TryHackMe
+  - ApseBOS CTF
+
+Among others, they will only be pages which I have been solving challenges, not just any random.
