@@ -24,8 +24,17 @@ We identify the characters to continue. These are the characters **<>-[].+** and
 
 Brainfuck is an esoteric programming language created in 1993 by Urban Müller.
 
-Example of a hello world
+Example of a **Hello, World!** in Brain Fuck
 
 >++++++++[<+++++++++>-]<.>++++[<+++++++>-]<+.+++++++..+++.>>++++++[<+++++++>-]<+
 +.------------.>++++++[<+++++++++>-]<+.<.+++.------.--------.>>>++++[<++++++++>-
 ]<+.
+
+OK!, Already known this it is necessary to extract the characters from the text.
+
+## Step 4
+
+We create a script and there automatized it.
+
+The script is here in the repository ("https://github.com/n0obit4/CTF/TryHackMe/BaseFuck/")
+
