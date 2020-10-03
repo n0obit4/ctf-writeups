@@ -32,7 +32,7 @@ If we go deep more and view the source code we look a name that is a possible Us
 
 ![Source Code](https://raw.githubusercontent.com/n0obit4/CTF/master/TryHackMe/Wgel%20CTF/Pictures/Apache%20code.png)
 
-Then ** Jessie ** is a possible username.
+Then **Jessie** is a possible username.
 
 ## Fuzzing to the website
 
