@@ -26,11 +26,11 @@ This machinne have the port 80 and 22.
 
 Open browser and access to the ip, is a Apache Default site.
 
-![Foto(https://raw.githubusercontent.com/n0obit4/CTF/master/TryHackMe/Wgel%20CTF/Pictures/Apache%20site.png)]
+![Apache Default Site](https://raw.githubusercontent.com/n0obit4/CTF/master/TryHackMe/Wgel%20CTF/Pictures/Apache%20site.png)
 
 If we go deep more and view the source code we look a name that is a possible Username.
 
-![Foto(https://raw.githubusercontent.com/n0obit4/CTF/master/TryHackMe/Wgel%20CTF/Pictures/Apache%20code.png)]
+![Source Code](https://raw.githubusercontent.com/n0obit4/CTF/master/TryHackMe/Wgel%20CTF/Pictures/Apache%20code.png)
 
 Then ** Jessie ** is a possible username.
 
@@ -47,7 +47,7 @@ The result is that and the sitemap directory catches my attention.
 /server-status (Status: 403)
 /sitemap (Status: 301)
 ```
-![Sitemap()]
+![Sitemap]()
 
 Finding into the source code I didn't find anything.
 <br>
@@ -58,7 +58,7 @@ $  gobuster dir -t 50 -w /usr/share/seclists/Discovery/Web-Content/big.txt -u ht
 ```
 In this search i found ** /.ssh ** Directory.
 
-![.ssh directory(https://raw.githubusercontent.com/n0obit4/CTF/master/TryHackMe/Wgel%20CTF/Pictures/ssh.png)]
+![.ssh directory](https://raw.githubusercontent.com/n0obit4/CTF/master/TryHackMe/Wgel%20CTF/Pictures/ssh.png)
 
 We Download the file and give the respective permissions
 
@@ -110,9 +110,9 @@ User jessie may run the following commands on CorpOne:
     (ALL : ALL) ALL
     (root) NOPASSWD: /usr/bin/wget
 ```
-We go to the GTFObins(https://gtfobins.github.io/gtfobins/wget/#file-upload) File Upload
+We go to the [GTFObins](https://gtfobins.github.io/gtfobins/wget/#file-upload) File Upload
 
-![Wget GTFO BINS(https://raw.githubusercontent.com/n0obit4/CTF/master/TryHackMe/Wgel%20CTF/Pictures/GTFO_wget.png)]
+![Wget GTFO BINS](https://raw.githubusercontent.com/n0obit4/CTF/master/TryHackMe/Wgel%20CTF/Pictures/GTFO_wget.png)
 
 We put our machine to listen with netcat and prepare to receive the packet.
 
