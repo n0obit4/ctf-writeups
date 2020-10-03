@@ -56,7 +56,7 @@ We keep listing into the sitemap directory.
 ```bash
 $  gobuster dir -t 50 -w /usr/share/seclists/Discovery/Web-Content/big.txt -u http://10.10.185.51/sitemap
 ```
-In this search i found ** /.ssh ** Directory.
+In this search i found **/.ssh** Directory.
 
 ![.ssh directory](https://raw.githubusercontent.com/n0obit4/CTF/master/TryHackMe/Wgel%20CTF/Pictures/ssh.png)
 
@@ -70,6 +70,7 @@ $ wget http://10.10.185.51/sitemap/.ssh/id_rsa ;chmod 600 id_rsa
 As we already found the possible ssh information, we proceed to access to the ssh.
 
 Username: Jessie
+<br>
 Password: id_rsa file
 
 ```bash
