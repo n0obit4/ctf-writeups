@@ -47,7 +47,7 @@ The result is that and the sitemap directory catches my attention.
 /server-status (Status: 403)
 /sitemap (Status: 301)
 ```
-![Sitemap]()
+![Sitemap](https://raw.githubusercontent.com/n0obit4/CTF/master/TryHackMe/Wgel%20CTF/Pictures/sitemap.png)
 
 Finding into the source code I didn't find anything.
 <br>
