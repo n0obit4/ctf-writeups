@@ -1,8 +1,8 @@
-# BaseFuck
+# BaseFck
 
 This is a challenge that consist in a extract the flag from the contenof the file.
 
-BaseFuck challenge [Here](https://tryhackme.com/jr/basefuck)
+BaseFck challenge [Here](https://tryhackme.com/jr/basefuck)
 
 ## Step 1
 
