@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/n0obit4/CTF/"><img src="http://www.esi-sba.dz/fr/images/au-2018-2019/actualite-evenement/csaw.png" alt="CTF Logo" border="0" width="400"></a>
+  <a href="https://github.com/n0obit4/CTF/"><img src="https://portswigger.net/cms/images/0c/8f/4cb294050d45-article-191125-trend-micro-ctf-body-text.jpg" alt="CTF Logo" border="0" width="400"></a>
   <br>
   CTF Area
   <br>
