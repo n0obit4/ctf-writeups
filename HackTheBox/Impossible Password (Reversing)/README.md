@@ -2,8 +2,8 @@
 
 This challenge holds weightage of 30 Points and currently not retired.
 
- <figure>
-  <img src="https://miro.medium.com/max/700/1*hJ9N0FeHnciRgyirAWWXkw.png" alt="Challenge information" text="Challenge information">
+<figure>
+  <img src="https://miro.medium.com/max/700/1*hJ9N0FeHnciRgyirAWWXkw.png" alt="Challenge information">
   <figcaption>Challenge information</figcaption>
 </figure> 
 
